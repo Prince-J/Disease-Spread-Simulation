@@ -26,7 +26,7 @@ It was implemented through random number generation and the use of the State des
 * Recovered - Survived after experiencing the effects of the disease.
 * Dead - Did not survive after experiencing the effects of the disease.
 
-"""Running the Program
+### Running the Program
 When ran, the program generates an environment for the individuals to be put in. The individuals are then placed on random spots in the environment and given a random direction to travel. A random amount of the individuals are set to be infected, then the individuals begin to interact, moving and changing states for a set amount of days.
 
 ## Setup
