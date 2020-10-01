@@ -38,7 +38,7 @@ List of features ready and TODOs for future development
 * Displays average amount of daily infected
 
 To-do list:
-* Add a graphical interface to display changes over time
+* Add a GUI to make it easier to run
 
 ## Status
 Project is: _in progress_
